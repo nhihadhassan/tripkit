@@ -1,5 +1,7 @@
 # TripKit
 
+**Live demo:** https://tripkit-tau.vercel.app
+
 A local-first travel planning board for itinerary items, reservations, documents, budget lines, and packing.
 
 ## Features
@@ -10,3 +12,7 @@ A local-first travel planning board for itinerary items, reservations, documents
 - Export and import JSON data
 
 Data is stored in the browser with `localStorage`.
+
+## License
+
+Released under the [MIT License](LICENSE).
